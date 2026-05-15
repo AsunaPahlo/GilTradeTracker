@@ -4,6 +4,8 @@ Author: elliegator
 
 A simple Dalamud plugin for FFXIV that tracks gil received from players, keeps a running total, allows entries to be deleted, and exports entries to a CSV file that opens in Excel.
 
+REPO: `https://raw.githubusercontent.com/elliethegator/GilTradeTracker/master/pluginmaster.json`
+
 Command:
 
 ```text
