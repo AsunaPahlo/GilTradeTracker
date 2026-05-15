@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Tracks gil trades and statistics.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/YOURNAME/GilTradeTracker",
+    "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
     "DownloadLinkInstall": "https://github.com/YOURNAME/GilTradeTracker/releases/latest/download/GilTradeTracker.zip",
     "Tags": [
       "economy",
