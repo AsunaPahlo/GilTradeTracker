@@ -7,7 +7,7 @@
     "Description": "Tracks gil trades and statistics.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
-    "IconUrl": "https://raw.githubusercontent.com/elliethegator/GilTradeTracker/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/elliethegator/GilTradeTracker/master/images/icon.png",
     "DownloadLinkInstall": "https://github.com/elliethegator/GilTradeTracker/releases/latest/download/GilTradeTracker.zip",
     "Tags": [
       "gil",
