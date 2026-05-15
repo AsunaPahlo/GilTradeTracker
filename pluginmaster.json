@@ -7,7 +7,7 @@
     "Description": "Tracks gil trades and statistics.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
-    "DownloadLinkInstall": "https://github.com/elliethegator/GilTradeTracker/releases/latest/download/GilTradeTracker.zip",
+    "DownloadLinkInstall": "C:\Users\mircs\Documents\GitHub\GilTradeTracker\GilTradeTracker\bin\x64\GilTradeTracker\Debug\win-x64\GilTradeTracker.zip",
     "Tags": [
       "economy",
       "gil",
