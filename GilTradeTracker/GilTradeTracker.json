@@ -1,0 +1,13 @@
+{
+  "Author": "elliegator",
+  "Name": "Gil Trade Tracker",
+  "Punchline": "Track gil received by player.",
+  "Description": "Records gil received with player name, keeps a running tally, allows entries to be deleted, and exports to a CSV file that opens in Excel.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gil",
+    "trade",
+    "tracker",
+    "excel"
+  ]
+}
